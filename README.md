@@ -3,6 +3,8 @@
 
 # Safety Requirement Detection Project
 
+## Alert: The training model is very big, it could not be uploaded on this repository. You can train yours using yolo on Google collabs.
+
 This project involves the detection of Personal Protective Equipment (PPE), such as hardhats, masks, and safety vests, using a YOLO model. It is integrated with an ESP32 microcontroller that receives commands based on the detected safety equipment. The project can process both webcam feeds and videos, providing real-time feedback on safety compliance.
 
 ## Table of Contents
